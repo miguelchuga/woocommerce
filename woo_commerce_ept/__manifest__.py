@@ -13,7 +13,7 @@
     'depends': ['auto_invoice_workflow_ept', 'common_connector_library'],
     'data': ['security/group.xml',
              'security/ir.model.access.csv',
-             'data/product_data.xml',
+#             'data/product_data.xml',
              'data/ir_sequence.xml',
              'data/ir_cron_data.xml',
              'data/ir_cron_data_inherit.xml',
